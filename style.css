@@ -1,0 +1,23 @@
+body{
+    background-color: #f8edeb
+  }
+
+  #nome { 
+    font-family: 'Source Serif 4', sans-serif;
+  }
+
+  #desc {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+
+  .habcon{
+    font-size: 25px;
+  }
+
+  .habEquip{
+    font-size: 23px;
+  }
+
+  .habHum{
+    font-size: 20px;
+  }
