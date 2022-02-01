@@ -4,6 +4,7 @@ body{
 
   #nome { 
     font-family: 'Source Serif 4', sans-serif;
+    text-align: center;
   }
 
   #desc {
@@ -21,3 +22,32 @@ body{
   .habHum{
     font-size: 20px;
   }
+
+  .sobre{
+    max-width: 60%;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 50px;
+  }
+
+  #foto{
+      padding: 3px;
+      background-color: purple;
+  }
+
+  ul li:nth-of-type(odd):hover{
+      background-color: purple;
+  }
+
+  #habilidades{
+    margin: 40px 0px 10px 30px;
+ }
+
+ #hobbies{
+     padding: 10px 0px 10px 30px;
+     font-size: 18px;
+ }
+ 
+ #reverFoto{
+    margin: 10px 0px 20px 30px;
+ }
